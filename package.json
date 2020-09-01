@@ -1,0 +1,23 @@
+{
+  "name": "user-authentication",
+  "version": "1.0.0",
+  "description": "\"User authentication application\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpit20adlakha/user-autthentication-service.git"
+  },
+  "keywords": [
+    "\"auth\"",
+    "\"user\""
+  ],
+  "author": "Arpit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpit20adlakha/user-autthentication-service/issues"
+  },
+  "homepage": "https://github.com/arpit20adlakha/user-autthentication-service#readme"
+}
